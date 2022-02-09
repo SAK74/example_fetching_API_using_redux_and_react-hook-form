@@ -4,6 +4,9 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "engines": {
+    "node": "12.x"
+  }
   "dependencies": {
     "@emotion/react": "11.7.1",
     "@emotion/styled": "11.6.0",
